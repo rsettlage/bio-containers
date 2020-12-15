@@ -12,6 +12,6 @@ Each software package container is in its own subdirectory.  The git process is 
  
 In Dockerhub, the build actions are set to:
 
-a) use tags, source = canu in the example above
-b) build context is the subdirectory, /canu/ in the above
-c) the Dockerfile extension is the version, ie 2.1.1 above
+a) use tags, source = canu in the example above  
+b) build context is the subdirectory, /canu/ in the above  
+c) the Dockerfile extension is the version, ie 2.1.1 above  
