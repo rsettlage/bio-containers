@@ -6,7 +6,7 @@ Each software package container is in its own subdirectory.  The git process is 
 
  + git add canu/Dockerfile.2.1.1
  + git tag -f -a "canu" -m "updating Canu to 2.1.1"
- + git commit -m "pdating Canu to 2.1.1""
+ + git commit -m "updating Canu to 2.1.1""
  + git push
  + git push -f --tags
  
