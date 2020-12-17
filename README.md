@@ -10,8 +10,8 @@ Each software package container is in its own subdirectory.  The git process is 
  + git push
  + git push -f --tags
  
-In Dockerhub, the build actions are set to:
+In Dockerhub, for the example above, the build actions are set to:
 
-a) use tags, source = main (or master) in the example above  
+a) use tags, source = main (or master)  
 b) build context is the subdirectory, /canu in the above (no trailing /)  
 c) the Dockerfile extension is the version, ie 2.1.1 above  
